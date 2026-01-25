@@ -18,6 +18,9 @@ Also, I am exploring **Cloud Computing** with **AWS** and **Azure**, aiming to c
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -27,13 +30,13 @@ Also, I am exploring **Cloud Computing** with **AWS** and **Azure**, aiming to c
 ---
 
 ### 💻 Featured Projects
-- Projects will be updated and uploaded soon 🛠️
+- [<span style="color: #1E90FF;">Project 1 – Stone Paper Scissor</span>](https://github.com/abdelghani47h/RockPaperScissors) 🛠️ A simple game built with C++ that demonstrates logic and problem-solving skills.
 
 ---
 
 ### 🏆 Achievements & Certifications
 - Completed **14+ courses in Abu-Hadhoud Roadmap (Programming Advices)**  
-- Solved **100+ programming problems**  
+- Solved **200+ programming problems**  
 - Completed multiple courses in **C, C++, C#, .NET**, and **SQL**  
 - **AWS Certified Cloud Practitioner**  
 - **AWS AI Practitioner**  
@@ -51,32 +54,23 @@ Also, I am exploring **Cloud Computing** with **AWS** and **Azure**, aiming to c
 - Preparing .NET Web projects for GitHub portfolio  
 - Continuously improving **GitHub & LinkedIn profiles** for professional presence
 
----
+<div align="center">
 
-<div align="center"> 
-  <table> 
-    <tr> 
-      <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=abdelghani47h&show_icons=true&theme=tokyonight" />
-      </td> 
-      <td> 
-        <img src="https://streak-stats.demolab.com/?user=abdelghani47h&theme=tokyonight" />
-      </td> 
-    </tr> 
-  </table>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelghani47h&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-  <br>
+  <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghani47h&layout=compact&theme=tokyonight&langs_count=3&hide=html,css,javascript&langs=C++,C#,dotnet" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghani47h&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" />
+
+  <br><br>
+
+  <!-- Followers Badge -->
+  <img src="https://img.shields.io/github/followers/abdelghani47h?label=Followers&style=for-the-badge&logo=github&color=1f6feb" alt="GitHub Followers" />
+
 </div>
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/abdelghani47h?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
-</p>
-
----
 
 ### 📬 Contact Information
 <div align="center">
