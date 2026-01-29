@@ -32,6 +32,7 @@ Also, I am exploring **Cloud Computing** with **AWS** and **Azure**, aiming to c
 ### 💻 Featured Projects
 - [<span style="color: #1E90FF;">Project 1 – Stone Paper Scissor</span>](https://github.com/abdelghani47h/RockPaperScissors) 🛠️ A simple game built with C++ that demonstrates logic and problem-solving skills.
 - [<span style="color: #1E90FF;">Project 2 – Math Quiz Game</span>](https://github.com/abdelghani47h/MathQuizGame) ⚡ A C++ console application that generates random arithmetic questions.
+- [<span style="color: #1E90FF;">Project 3 – Millionaire Programmer Game</span>](https://github.com/abdelghani47h/MillionaireProgrammerGame) 🎮 C++ console quiz game simulating "Who Wants to Be a Millionaire".
 
 ---
 
