@@ -49,7 +49,9 @@ Passionate about creating projects that demonstrate robust programming fundament
 - [<span style="color: #1E90FF;">Project 1 – Stone Paper Scissor</span>](https://github.com/abdelghani47h/RockPaperScissors) 🛠️ A simple game built with C++ that demonstrates logic and problem-solving skills.
 - [<span style="color: #1E90FF;">Project 2 – Math Quiz Game</span>](https://github.com/abdelghani47h/MathQuizGame) ⚡ A C++ console application that generates random arithmetic questions.
 - [<span style="color: #1E90FF;">Project 3 – Millionaire Programmer Game</span>](https://github.com/abdelghani47h/MillionaireProgrammerGame) 🎮 C++ console quiz game simulating "Who Wants to Be a Millionaire".
-- [<span style="color: #1E90FF;">Project 4 – C++ Bank Management System</span>](https://github.com/abdelghani47h/BankSystem/tree/main) 💰 Command-Line Bank System in C++ with add, delete, update, find & list client features.
+- [<span style="color: #1E90FF;">Project 4 – C++ Bank Management System</span>](https://github.com/abdelghani47h/BankSystem/tree/main) 💰 Bank System in C++ with add, delete, update, find & list client features.
+- [<span style="color: #1E90FF;">Project 5 – BankSystem-Extended</span>](https://github.com/abdelghani47h/BankSystem-Extended) 💰 Bank System with enhanced Transactions (Deposit, Withdraw, Total Balances).
+
 
 ---
 
@@ -87,7 +89,8 @@ Passionate about creating projects that demonstrate robust programming fundament
 <img src="https://img.shields.io/github/followers/abdelghani47h?label=Followers&style=for-the-badge&logo=github&color=1f6feb" alt="GitHub Followers" />
 
 <!-- Profile Views Badge -->
-<img src="https://img.shields.io/badge/Profile%20Views-0-blueviolet?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=abdelghani47h&style=for-the-badge&color=blue" alt="Profile Views" />
+
 
 
 </div>
