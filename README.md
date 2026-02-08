@@ -45,12 +45,14 @@ Passionate about creating projects that demonstrate robust programming fundament
 
 ---
 
+
 ### 💻 Featured Projects
-- [<span style="color: #1E90FF;">Project 1 – Stone Paper Scissor</span>](https://github.com/abdelghani47h/RockPaperScissors) 🛠️ A simple game built with C++ that demonstrates logic and problem-solving skills.
-- [<span style="color: #1E90FF;">Project 2 – Math Quiz Game</span>](https://github.com/abdelghani47h/MathQuizGame) ⚡ A C++ console application that generates random arithmetic questions.
-- [<span style="color: #1E90FF;">Project 3 – Millionaire Programmer Game</span>](https://github.com/abdelghani47h/MillionaireProgrammerGame) 🎮 C++ console quiz game simulating "Who Wants to Be a Millionaire".
-- [<span style="color: #1E90FF;">Project 4 – C++ Bank Management System</span>](https://github.com/abdelghani47h/BankSystem/tree/main) 💰 Bank System in C++ with add, delete, update, find & list client features.
-- [<span style="color: #1E90FF;">Project 5 – BankSystem-Extended</span>](https://github.com/abdelghani47h/BankSystem-Extended) 💰 Bank System with enhanced Transactions (Deposit, Withdraw, Total Balances).
+- [Project 1 – Stone Paper Scissor](https://github.com/abdelghani47h/RockPaperScissors) 🛠️ A simple game built with C++ that demonstrates logic and problem-solving skills.
+- [Project 2 – Math Quiz Game](https://github.com/abdelghani47h/MathQuizGame) ⚡ A C++ console application that generates random arithmetic questions.
+- [Project 3 – Millionaire Programmer Game](https://github.com/abdelghani47h/MillionaireProgrammerGame) 🎮 C++ console quiz game simulating "Who Wants to Be a Millionaire".
+- [Project 4 – Bank Management System](https://github.com/abdelghani47h/BankSystem/tree/main) 💵 Bank System in C++ with add, delete, update, find & list client features.
+- [Project 5 – BankSystem-Extended](https://github.com/abdelghani47h/BankSystem-Extended) 💰 Bank System with enhanced Transactions (Deposit, Withdraw, Total Balances.
+- [Project 6 – BankSystem-Extended-V2](https://github.com/abdelghani47h/BankSystem-Extended-V2) 🚀 version 2 with full user management, permission-based access, secure login, binary permissions.
 
 
 ---
