@@ -49,10 +49,11 @@ Passionate about creating projects that demonstrate robust programming fundament
 ### 💻 Featured Projects
 - [Project 1 – Stone Paper Scissor](https://github.com/abdelghani47h/RockPaperScissors) 🛠️ A simple game built with C++ that demonstrates logic and problem-solving skills.
 - [Project 2 – Math Quiz Game](https://github.com/abdelghani47h/MathQuizGame) ⚡ A C++ console application that generates random arithmetic questions.
-- [Project 3 – Millionaire Programmer Game](https://github.com/abdelghani47h/MillionaireProgrammerGame) 🎮 C++ console quiz game simulating "Who Wants to Be a Millionaire".
+- [Project 3 – Millionaire Programmer Game](https://github.com/abdelghani47h/MillionaireProgrammerGame) 🎮 C++ console quiz game simulating "Who Wants to Be a Millionaire.
 - [Project 4 – Bank Management System](https://github.com/abdelghani47h/BankSystem/tree/main) 💵 Bank System in C++ with add, delete, update, find & list client features.
-- [Project 5 – BankSystem-Extended](https://github.com/abdelghani47h/BankSystem-Extended) 💰 Bank System with enhanced Transactions (Deposit, Withdraw, Total Balances.
-- [Project 6 – BankSystem-Extended-V2](https://github.com/abdelghani47h/BankSystem-Extended-V2) 🚀 version 2 with full user management, permission-based access, secure login, binary permissions.
+- [Project 5 – BankSystem-Extended](https://github.com/abdelghani47h/BankSystem-Extended) 💰 Bank System with enhanced Transactions (Deposit, Withdraw, Total Balances).
+- [Project 6 – BankSystem-Extended-V2](https://github.com/abdelghani47h/BankSystem-Extended-V2) 🚀 Version 2 with user management, permissions, secure login.
+- [Project 7 – ATM System](https://github.com/abdelghani47h/ATM-System/tree/main) 🏧 Console ATM in C++ with secure login, deposits, withdrawals, balance check & file storage.persistence.
 
 
 ---
