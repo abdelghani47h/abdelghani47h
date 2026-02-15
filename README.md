@@ -53,8 +53,8 @@ Passionate about creating projects that demonstrate robust programming fundament
 - [Project 4 – Bank Management System](https://github.com/abdelghani47h/BankSystem/tree/main) 💵 Bank System in C++ with add, delete, update, find & list client features.
 - [Project 5 – BankSystem-Extended](https://github.com/abdelghani47h/BankSystem-Extended) 💰 Bank System with enhanced Transactions (Deposit, Withdraw, Total Balances).
 - [Project 6 – BankSystem-Extended-V2](https://github.com/abdelghani47h/BankSystem-Extended-V2) 🚀 Version 2 with user management, permissions, secure login.
-- [Project 7 – ATM System](https://github.com/abdelghani47h/ATM-System/tree/main) 🏧 Console ATM in C++ with secure login, deposits, withdrawals, balance check & file storage.persistence.
-
+- [Project 7 – ATM System](https://github.com/abdelghani47h/ATM-System/tree/main) 🏧 Console ATM in C++ with secure login, deposits, withdrawals, balance check & file storage persistence.
+- [Project 8 – BankSystem-OOP-Extended](https://github.com/abdelghani47h/BankSystem-OOP-Extended/tree/main) 🏦 OOP Bank System with login audit, currency exchange, transfers & encrypted passwords.
 
 ---
 
