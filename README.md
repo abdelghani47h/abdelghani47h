@@ -55,7 +55,7 @@ Passionate about creating projects that demonstrate robust programming fundament
 - [Project 6 – BankSystem-Extended-V2](https://github.com/abdelghani47h/BankSystem-Extended-V2) 🚀 Version 2 with user management, permissions, secure login.
 - [Project 7 – ATM System](https://github.com/abdelghani47h/ATM-System/tree/main) 🏧 Console ATM in C++ with secure login, deposits, withdrawals, balance check & file storage persistence.
 - [Project 8 – BankSystem-OOP-Extended](https://github.com/abdelghani47h/BankSystem-OOP-Extended/tree/main) 🏦 OOP Bank System with login audit, currency exchange, transfers & encrypted passwords.
-
+- [Project 9 – String & Date OOP Class](https://github.com/abdelghani47h/String-Date-Classes) 📚 C++ libraries (`clsString`, `clsDate`, `clsPeriod`) built from scratch for learning, reusability.
 ---
 
 ### 🏆 Achievements & Certifications
