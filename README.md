@@ -60,6 +60,7 @@ Passionate about creating projects that demonstrate robust programming fundament
 - [Project 11 – Stack & Queue OOP](https://github.com/abdelghani47h/Stack-Queue-C-/tree/main) 📦 Custom C++ Stack & Queue built from scratch using Doubly Linked List.
 - [Project 12 – Stack & Queue by Dynamic Array](https://github.com/abdelghani47h/Stack-Queue-DynamicArray-CPP) 📦 C++ Stack & Queue from scratch using Dynamic Array with OOP principles.
 - [Project 13 – Undo / Redo Simulation](https://github.com/abdelghani47h/Undo-Redo-Simulation-CPP) 🔁 C++ Undo/Redo system built from scratch using Stack, simulating history states.
+- [Project 14 – QueueLine Simulation](https://github.com/abdelghani47h/QueueLine-Simulation-CPP) 📋 C++ QueueLine system using STL Queue & Stack, simulating real-world service counters.
 ---
 
 ### 🏆 Achievements & Certifications
