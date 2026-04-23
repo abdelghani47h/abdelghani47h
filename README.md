@@ -46,7 +46,7 @@ Passionate about creating projects that demonstrate robust programming fundament
 ---
 
 
-### 💻 Featured Projects
+### 💻 C++ Featured Projects
 - [Project 1 – Stone Paper Scissor](https://github.com/abdelghani47h/RockPaperScissors) 🛠️ A simple game built with C++ that demonstrates logic and problem-solving skills.
 - [Project 2 – Math Quiz Game](https://github.com/abdelghani47h/MathQuizGame) ⚡ A C++ console application that generates random arithmetic questions.
 - [Project 3 – Millionaire Programmer Game](https://github.com/abdelghani47h/MillionaireProgrammerGame) 🎮 C++ console quiz game simulating "Who Wants to Be a Millionaire.
@@ -63,6 +63,12 @@ Passionate about creating projects that demonstrate robust programming fundament
 - [Project 14 – QueueLine Simulation](https://github.com/abdelghani47h/QueueLine-Simulation-CPP) 📋 C++ QueueLine system using STL Queue & Stack, simulating real-world service counters.
 ---
 
+
+### 🖥️ C# Windows Forms Projects
+- [Project 1 – Pizza Ordering System](https://github.com/abdelghani47h/Pizza-Project-Csharb) 🍕 A C# Windows Forms app simulating a pizza ordering process.
+
+ ---
+ 
 ### 🏆 Achievements & Certifications
 - Completed **14+ courses in Abu-Hadhoud Roadmap (Programming Advices)**  
 - Solved **200+ programming problems**  
